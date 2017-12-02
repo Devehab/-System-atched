@@ -108,6 +108,6 @@ window.User_ID = user.uid +'/';
 Start();
     
   } else {
-     window.location.replace('Sign_in.html');
+     window.location.replace('sign_in.html');
   }
 });
